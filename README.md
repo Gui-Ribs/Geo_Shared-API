@@ -8,7 +8,7 @@
 
 Repositório da API do geoshared, inspirado no [http://geodb-cities-api.wirefreethought.com](GEO_DB)
 
-Guilherme Ribeiro
+Guilherme Ribeiro &&
 Nicolas Moresco Viana 3 A DS
 
 # Endpoints
