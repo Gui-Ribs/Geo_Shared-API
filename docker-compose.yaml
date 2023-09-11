@@ -1,0 +1,11 @@
+version: '3'
+services:
+  db:
+    image: mysql
+    container_name: localhost
+    environment:
+      MYSQL_DB: GeoShared
+      MYSQL_USER: mysql
+      MYSQL_PASSWORD: 12345678
+    ports:
+      - "5432:5432"
