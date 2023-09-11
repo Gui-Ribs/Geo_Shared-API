@@ -54,3 +54,7 @@ Para executá-lo siga as instruções abaixo:
 Para se conectar com o banco no localhost, altere a propriedade "LocalhostConnection", em appsettings.json
 
 > Caso tenha o Docker instalado, rode o comando ```docker compose up -d```
+
+# Funcionamento - Demonstração
+
+- Link do funcionamento: https://abrir.link/vui9I
