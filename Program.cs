@@ -39,7 +39,7 @@ string connectDb ()
         Console.WriteLine("Success");
         return connectionString;
     }
-    return builder.Configuration.GetConnectionString("ProductionConnection") ?? throw new InvalidOperationException("Connect string not found");
+    return builder.Configuration.GetConnectionString("LocalhostConnection") ?? throw new InvalidOperationException("Connect string not found");
 
 }
 
