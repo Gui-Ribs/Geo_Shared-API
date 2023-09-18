@@ -6,7 +6,9 @@
 
 </div>
 
-Repositório da API do geoshared, inspirado no [http://geodb-cities-api.wirefreethought.com](GEO_DB)
+Repositório da API do geoshared, inspirado no [GEO_DB](http://geodb-cities-api.wirefreethought.com)
+
+Link da API Hospedada: https://geoshared-api.onrender.com
 
 Guilherme Ribeiro &&
 Nicolas Moresco Viana 3 A DS
