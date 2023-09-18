@@ -8,7 +8,7 @@
 
 Repositório da API do geoshared, inspirado no [GEO_DB](http://geodb-cities-api.wirefreethought.com)
 
-Link da API Hospedada: https://geoshared-api.onrender.com
+Link da API Hospedada: https://geoshared-api.onrender.com/shared/endpoint
 
 Guilherme Ribeiro &&
 Nicolas Moresco Viana 3 A DS
