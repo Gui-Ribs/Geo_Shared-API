@@ -17,12 +17,12 @@ Nicolas Moresco Viana 3 A DS
 
 Os seus princpiais endpoints são:
 
-- Biomas;
-- Continentes;
-- Governadores;
+- Bioma;
+- Continente;
+- Governadore;
 - Imagem;
-- Presidentes;
-- Provincias;
+- Presidente;
+- Provincia;
 - Quiz;
 
 # Diagramas
